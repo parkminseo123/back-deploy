@@ -2,7 +2,7 @@ import User from "../schemas/user.js"
 
 const main = (req, res) => {
     res.set({'Content-Type' : 'text/html; cahrset=utf-8'})
-    res.send('<h1>Welcome Express!</h1>')
+    res.send('<h1>Welcome Express!!</h1>')
 }
 
 const test = async () =>{
